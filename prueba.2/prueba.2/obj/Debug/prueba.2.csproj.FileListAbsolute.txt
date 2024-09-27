@@ -1,0 +1,7 @@
+C:\Users\IAN\Desktop\praticac#\prueba.2\prueba.2\bin\Debug\prueba.2.exe.config
+C:\Users\IAN\Desktop\praticac#\prueba.2\prueba.2\bin\Debug\prueba.2.exe
+C:\Users\IAN\Desktop\praticac#\prueba.2\prueba.2\bin\Debug\prueba.2.pdb
+C:\Users\IAN\Desktop\praticac#\prueba.2\prueba.2\obj\Debug\prueba.2.csproj.AssemblyReference.cache
+C:\Users\IAN\Desktop\praticac#\prueba.2\prueba.2\obj\Debug\prueba.2.csproj.CoreCompileInputs.cache
+C:\Users\IAN\Desktop\praticac#\prueba.2\prueba.2\obj\Debug\prueba.2.exe
+C:\Users\IAN\Desktop\praticac#\prueba.2\prueba.2\obj\Debug\prueba.2.pdb
